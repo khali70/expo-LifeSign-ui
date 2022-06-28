@@ -8,3 +8,4 @@ future work
 
 - [ ] create dir structure
 - [ ] try to use cherry note
+- [ ] CV integration
