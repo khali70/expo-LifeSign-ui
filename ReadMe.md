@@ -7,4 +7,3 @@ and note for coding some weird errors
 future work
 
 - [ ] try to use cherry note
-- [ ] CV integration
