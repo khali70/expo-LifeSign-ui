@@ -6,6 +6,5 @@ and note for coding some weird errors
 
 future work
 
-- [ ] create dir structure
 - [ ] try to use cherry note
 - [ ] CV integration
