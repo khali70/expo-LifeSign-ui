@@ -6,4 +6,8 @@ and note for coding some weird errors
 
 future work
 
+- [ ] make repo for restaurant
+  - [ ] fix expo
+  - [ ] update react
+  - [ ] reVisit the backend
 - [ ] try to use cherry note
